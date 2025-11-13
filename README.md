@@ -1,7 +1,3 @@
-## [___ mural monte](https://webmural.com/___)
+## [guesswamp<br>song lyrics](https://vocals.page/guesswamp)
 
-### [CSS](___.css)
-
-* `:first-child`
-* :paw_prints:
-* `:last-child`
+[hypertextual thanks, ____](https://webmural.com/___)
